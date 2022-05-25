@@ -22,12 +22,12 @@
 ## how to run test and deploy project?
 
 1. Clone git repository
-2. npm install
-3. npm run server
+2." npm install"
+3. use command "npm run server"
 4. open mysql workbench/phpmyadmin or any mysql GUI
 5. copy the script under database folder database/schema.sql to create tables and data 
 6. open localhost:3000 on web browser
-7. Add new psychiatrist
+7. Explore the functionalities
 
 
 ## Some Screenshots:
