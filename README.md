@@ -11,7 +11,7 @@
 5. nodemon
 6. express-validator
 
-# Api end points:
+## Api end points:
 1. Get all psychiatrists: http://localhost:3000/
 2. Get details of all patients under single psychiatrist: http://localhost:3000/viewPatients/1 (1=id)
 3. Add patient under psychiatrist: http://localhost:3000/addPatient/1 (1=id)
@@ -19,7 +19,7 @@
 5. Register psychiatrist: http://localhost:3000/save
 6. Get psychiatrist hospitalName, name: http://localhost:3000/getPsy/1
 
-# how to run test and deploy project?
+## how to run test and deploy project?
 
 1. Clone git repository
 2. npm install
@@ -30,7 +30,7 @@
 7. Add new psychiatrist
 
 
-# Some Screenshots:
+## Some Screenshots:
 1. All psychiatrists:
   ![image](https://user-images.githubusercontent.com/53164503/170361946-672e8a80-fb9b-48fc-8fd0-a108735cf36e.png)
 2. Add new psychiatrist:
